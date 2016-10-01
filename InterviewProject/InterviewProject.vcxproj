@@ -22,7 +22,7 @@
     <ProjectGuid>{552FAFF9-12C2-4BAC-BA85-8F5168BDE3C7}</ProjectGuid>
     <RootNamespace>InterviewProject</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>CourseraOA2</ProjectName>
+    <ProjectName>CourseraOA</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
